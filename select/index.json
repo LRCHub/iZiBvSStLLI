@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ぼくのともだち",
+  "base_artist": "やなぎなぎ",
+  "createdAt": "2026-03-10T16:41:49.849948Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぼくのともだち",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/01_ぼくのともだち_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぼくのともだち",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/02_ぼくのともだち_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ぼくのともだち。",
+      "artist": "黒百合と影",
+      "has_synced": false,
+      "path": "select/03_ぼくのともだち。_黒百合と影.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "赤いダウンパーカー、ぼくのともだち",
+      "artist": "Douji Morita",
+      "has_synced": false,
+      "path": "select/04_赤いダウンパーカー、ぼくのともだち_Douji_Morita.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくのともだち",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくのともだち_やなぎなぎ.txt"
+    }
+  ]
+}
